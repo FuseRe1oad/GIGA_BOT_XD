@@ -9,3 +9,5 @@ venv/
 
 .log
 .DS_store
+gigachat_edumodel/TeraTTS/glados-g2p-vits/exported/dictionary.txt
+model/TeraTTS/glados-g2p-vits/exported/model.onnx
